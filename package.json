@@ -1,0 +1,17 @@
+{
+  "name": "shopping-api-mock",
+  "version": "1.0.0",
+  "description": "Mocked API to use when developing frontend shopping in Angular",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
